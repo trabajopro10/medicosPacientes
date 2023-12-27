@@ -1,0 +1,1 @@
+package medvoll.class1.domain.consulta;
